@@ -71,7 +71,7 @@ No installation required! This is a client-side application.
 3. Start extracting frames from your videos
 
 ```bash
-git clone https://github.com/yourusername/video-frame-extractor.git
+git clone https://github.com/amar-verma/video-frame-extractor.git
 cd video-frame-extractor
 # Open index.html in your browser
 ```
